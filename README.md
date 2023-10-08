@@ -11,5 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/coolerhack/coolerhack/assets/github-contribution-grid-snake.svg" /></div>
+
 <div align="center"> <img src="https://profile-counter.glitch.me/coolerhack/count.svg" /> </div>
-![](https://raw.githubusercontent.com/coolerhack/coolerhack/main/assets/github-contribution-grid-snake.svg)
+
